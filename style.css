@@ -1,0 +1,42 @@
+/* common style */
+
+.common-btn-style{
+
+     background: red;
+     color: white;
+     border-radius: 8px;
+     padding: .7rem;
+     font-weight: bold;
+     display: flex;
+     justify-content: center;
+     align-items: center;
+     gap: 0.5rem;
+}
+
+/* Products container's each product */
+#products-container div,.tea-product-ofQualitySection{
+
+       background-color: rgba(128, 0, 255, 0.134);
+       padding: 1rem;
+       border-radius: 0.5rem;
+       text-align: center;
+       
+}
+
+#products-container div img{
+
+       margin: auto;
+       margin-bottom: 0.9rem;
+}
+
+#products-container div h2{
+
+    font-weight: bold;
+      font-size: 1.5rem;
+}
+
+/* clients-section */
+#clients-section div p{
+
+        font-size: small;
+}
